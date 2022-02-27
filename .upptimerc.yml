@@ -3,22 +3,20 @@ owner: ja-m
 repo: Mader-Monitoring
 
 sites:
-  - name: jan-mader.de
-    url: http://jan-mader.de
   - name: JaKeJu Calibre-Web
     url: $SECRET_SITE_1
+  - name: JaKeJu Calibre-Web (direct)
+    url: $SECRET_SITE_2
+    port: 8000
+  - name: jan-mader.de
+    url: http://jan-mader.de
   - name: jule-mader.de
     url: https://jule-mader.de
   - name: FitzBox
     url: $SECRET_SITE_2
-  - name: JaKeJu Calibre-Web (direct)
-    url: $SECRET_SITE_2
-    port: 8000
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
-  theme: dark
+  theme: ocean
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
