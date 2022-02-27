@@ -5,38 +5,38 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ja-ke-ju-calibre-web",
     "status": "up",
-    "uptime": "6.01%",
-    "uptimeDay": "6.01%",
-    "uptimeWeek": "6.01%",
-    "uptimeMonth": "6.01%",
-    "uptimeYear": "6.01%",
-    "time": 2204,
-    "timeDay": 2204,
-    "timeWeek": 2204,
-    "timeMonth": 2204,
-    "timeYear": 2204,
+    "uptime": "9.46%",
+    "uptimeDay": "9.46%",
+    "uptimeWeek": "9.46%",
+    "uptimeMonth": "9.46%",
+    "uptimeYear": "9.46%",
+    "time": 2175,
+    "timeDay": 2175,
+    "timeWeek": 2175,
+    "timeMonth": 2175,
+    "timeYear": 2175,
     "dailyMinutesDown": {
       "2022-02-27": 256
     }
   },
   {
     "name": "JaKeJu Calibre-Web (direct)",
-    "url": "$SECRET_SITE_2",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "url": "http://r3s2a7glehnz0y8a.myfritz.net",
+    "icon": "https://favicons.githubusercontent.com/r3s2a7glehnz0y8a.myfritz.net",
     "slug": "ja-ke-ju-calibre-web-direct",
     "status": "down",
-    "uptime": "3.44%",
-    "uptimeDay": "3.44%",
-    "uptimeWeek": "3.44%",
-    "uptimeMonth": "3.44%",
-    "uptimeYear": "3.44%",
+    "uptime": "1.46%",
+    "uptimeDay": "1.46%",
+    "uptimeWeek": "1.46%",
+    "uptimeMonth": "1.46%",
+    "uptimeYear": "1.46%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-27": 8
+      "2022-02-27": 18
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1044,
-    "timeDay": 1044,
-    "timeWeek": 1044,
-    "timeMonth": 1044,
-    "timeYear": 1044,
+    "time": 1411,
+    "timeDay": 1411,
+    "timeWeek": 1411,
+    "timeMonth": 1411,
+    "timeYear": 1411,
     "dailyMinutesDown": {}
   },
   {
@@ -68,17 +68,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 503,
-    "timeDay": 503,
-    "timeWeek": 503,
-    "timeMonth": 503,
-    "timeYear": 503,
+    "time": 502,
+    "timeDay": 502,
+    "timeWeek": 502,
+    "timeMonth": 502,
+    "timeYear": 502,
     "dailyMinutesDown": {}
   },
   {
     "name": "FitzBox",
-    "url": "$SECRET_SITE_2",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "url": "http://r3s2a7glehnz0y8a.myfritz.net",
+    "icon": "https://favicons.githubusercontent.com/r3s2a7glehnz0y8a.myfritz.net",
     "slug": "fitz-box",
     "status": "down",
     "uptime": "0.00%",
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-27": 10
+      "2022-02-27": 20
     }
   }
 ]
