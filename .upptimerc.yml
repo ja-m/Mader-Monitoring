@@ -11,8 +11,9 @@ sites:
     url: https://jule-mader.de
   - name: FitzBox
     url: $SECRET_SITE_2
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: JaKeJu Calibre-Web (direct)
+    url: $SECRET_SITE_2
+    port: 8000
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
