@@ -11,8 +11,6 @@ sites:
     url: http://jan-mader.de
   - name: jule-mader.de
     url: https://jule-mader.de
-  - name: FitzBox
-    url: http://r3s2a7glehnz0y8a.myfritz.net:80
 
 status-website:
   theme: ocean
