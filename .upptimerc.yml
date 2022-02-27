@@ -1,8 +1,13 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ja-m
+repo: Mader-Monitoring
 
 sites:
+  - name: jan-mader.de
+    url: http://jan-mader.de
+  - name: JaKeJu Calibre-Web
+    url: $SECRET_SITE1
+    port: 8000
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
