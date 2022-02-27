@@ -6,8 +6,7 @@ sites:
   - name: JaKeJu Calibre-Web
     url: $SECRET_SITE_1
   - name: JaKeJu Calibre-Web (direct)
-    url: http://r3s2a7glehnz0y8a.myfritz.net
-    port: 8000
+    url: http://r3s2a7glehnz0y8a.myfritz.net:8000
   - name: jan-mader.de
     url: http://jan-mader.de
   - name: jule-mader.de
