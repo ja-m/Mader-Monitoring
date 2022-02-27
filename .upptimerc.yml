@@ -8,7 +8,7 @@ sites:
   - name: JaKeJu Calibre-Web (direct)
     url: $SECRET_SITE_2:8000
   - name: jan-mader.de
-    url: http://q.jan-mader.de
+    url: http://jan-mader.de
   - name: jule-mader.de
     url: https://jule-mader.de
 
