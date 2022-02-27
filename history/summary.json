@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1110,
-    "timeDay": 1110,
-    "timeWeek": 1110,
-    "timeMonth": 1110,
-    "timeYear": 1110,
+    "time": 1085,
+    "timeDay": 1085,
+    "timeWeek": 1085,
+    "timeMonth": 1085,
+    "timeYear": 1085,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ja-ke-ju-calibre-web",
     "status": "up",
-    "uptime": "3.42%",
-    "uptimeDay": "3.42%",
-    "uptimeWeek": "3.42%",
-    "uptimeMonth": "3.42%",
-    "uptimeYear": "3.42%",
-    "time": 2242,
-    "timeDay": 2242,
-    "timeWeek": 2242,
-    "timeMonth": 2242,
-    "timeYear": 2242,
+    "uptime": "5.09%",
+    "uptimeDay": "5.09%",
+    "uptimeWeek": "5.09%",
+    "uptimeMonth": "5.09%",
+    "uptimeYear": "5.09%",
+    "time": 2244,
+    "timeDay": 2244,
+    "timeWeek": 2244,
+    "timeMonth": 2244,
+    "timeYear": 2244,
     "dailyMinutesDown": {
       "2022-02-27": 256
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 510,
-    "timeDay": 510,
-    "timeWeek": 510,
-    "timeMonth": 510,
-    "timeYear": 510,
+    "time": 505,
+    "timeDay": 505,
+    "timeWeek": 505,
+    "timeMonth": 505,
+    "timeYear": 505,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fitz-box",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-27": 2
+      "2022-02-27": 7
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ja-ke-ju-calibre-web-direct",
     "status": "down",
-    "uptime": "53.73%",
-    "uptimeDay": "53.73%",
-    "uptimeWeek": "53.73%",
-    "uptimeMonth": "53.73%",
-    "uptimeYear": "53.73%",
+    "uptime": "5.04%",
+    "uptimeDay": "5.04%",
+    "uptimeWeek": "5.04%",
+    "uptimeMonth": "5.04%",
+    "uptimeYear": "5.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-27": 0
+      "2022-02-27": 5
     }
   },
   {
