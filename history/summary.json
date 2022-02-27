@@ -5,38 +5,38 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ja-ke-ju-calibre-web",
     "status": "up",
-    "uptime": "9.46%",
-    "uptimeDay": "9.46%",
-    "uptimeWeek": "9.46%",
-    "uptimeMonth": "9.46%",
-    "uptimeYear": "9.46%",
-    "time": 2175,
-    "timeDay": 2175,
-    "timeWeek": 2175,
-    "timeMonth": 2175,
-    "timeYear": 2175,
+    "uptime": "12.16%",
+    "uptimeDay": "12.16%",
+    "uptimeWeek": "12.16%",
+    "uptimeMonth": "12.16%",
+    "uptimeYear": "12.16%",
+    "time": 2128,
+    "timeDay": 2128,
+    "timeWeek": 2128,
+    "timeMonth": 2128,
+    "timeYear": 2128,
     "dailyMinutesDown": {
       "2022-02-27": 256
     }
   },
   {
     "name": "JaKeJu Calibre-Web (direct)",
-    "url": "http://r3s2a7glehnz0y8a.myfritz.net",
+    "url": "http://r3s2a7glehnz0y8a.myfritz.net:8000",
     "icon": "https://favicons.githubusercontent.com/r3s2a7glehnz0y8a.myfritz.net",
     "slug": "ja-ke-ju-calibre-web-direct",
-    "status": "down",
-    "uptime": "1.46%",
-    "uptimeDay": "1.46%",
-    "uptimeWeek": "1.46%",
-    "uptimeMonth": "1.46%",
-    "uptimeYear": "1.46%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.18%",
+    "uptimeDay": "2.18%",
+    "uptimeWeek": "2.18%",
+    "uptimeMonth": "2.18%",
+    "uptimeYear": "2.18%",
+    "time": 656,
+    "timeDay": 656,
+    "timeWeek": 656,
+    "timeMonth": 656,
+    "timeYear": 656,
     "dailyMinutesDown": {
-      "2022-02-27": 18
+      "2022-02-27": 26
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1411,
-    "timeDay": 1411,
-    "timeWeek": 1411,
-    "timeMonth": 1411,
-    "timeYear": 1411,
+    "time": 1350,
+    "timeDay": 1350,
+    "timeWeek": 1350,
+    "timeMonth": 1350,
+    "timeYear": 1350,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 502,
-    "timeDay": 502,
-    "timeWeek": 502,
-    "timeMonth": 502,
-    "timeYear": 502,
+    "time": 487,
+    "timeDay": 487,
+    "timeWeek": 487,
+    "timeMonth": 487,
+    "timeYear": 487,
     "dailyMinutesDown": {}
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-27": 20
+      "2022-02-27": 29
     }
   }
 ]
