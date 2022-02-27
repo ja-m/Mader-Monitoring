@@ -7,7 +7,6 @@ sites:
     url: http://jan-mader.de
   - name: JaKeJu Calibre-Web
     url: $SECRET_SITE1
-    port: 8000
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
