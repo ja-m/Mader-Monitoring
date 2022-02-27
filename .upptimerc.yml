@@ -12,7 +12,7 @@ sites:
   - name: jule-mader.de
     url: https://jule-mader.de
   - name: FitzBox
-    url: http://r3s2a7glehnz0y8a.myfritz.net
+    url: $SECRET_SITE_2
 
 status-website:
   theme: ocean
