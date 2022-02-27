@@ -7,10 +7,10 @@ sites:
     url: http://jan-mader.de
   - name: JaKeJu Calibre-Web
     url: $SECRET_SITE_1
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: jule-mader.de
+    url: https://jule-mader.de
+  - name: FitzBox
+    url: $SECRET_SITE_2
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
