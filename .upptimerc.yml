@@ -11,7 +11,7 @@ sites:
     url: http://jan-mader.de
   - name: jule-mader.de
     url: https://jule-mader.de
-  - name: ServiceNow
+  - name: ServiceNow PDI
     url: https://dev79194.service-now.com
 
 status-website:
