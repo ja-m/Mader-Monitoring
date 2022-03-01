@@ -11,6 +11,8 @@ sites:
     url: http://jan-mader.de
   - name: jule-mader.de
     url: https://jule-mader.de
+  - name: ServiceNow
+    url: https://dev79194.service-now.com
 
 status-website:
   theme: ocean
