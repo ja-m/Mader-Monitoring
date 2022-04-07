@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ja-ke-ju-calibre-web",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 2313,
     "timeDay": 2867,
     "timeWeek": 2514,
@@ -91,9 +91,9 @@
     "url": "https://dev79194.service-now.com",
     "icon": "https://favicons.githubusercontent.com/dev79194.service-now.com",
     "slug": "service-now-pdi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
@@ -103,6 +103,7 @@
     "timeMonth": 683,
     "timeYear": 723,
     "dailyMinutesDown": {
+      "2022-04-07": 0,
       "2022-03-09": 23,
       "2022-03-05": 25
     }
