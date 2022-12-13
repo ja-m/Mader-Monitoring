@@ -1,7 +1,7 @@
 url: https://dev79194.service-now.com
-status: down
-code: 503
-responseTime: 255
-lastUpdated: 2022-12-13T08:27:45.914Z
+status: up
+code: 200
+responseTime: 2640
+lastUpdated: 2022-12-13T19:06:29.402Z
 startTime: Tue Mar 01 2022 18:31:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
