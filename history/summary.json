@@ -182,9 +182,9 @@
     "url": "http://jan-mader.de",
     "icon": "https://icons.duckduckgo.com/ip3/jan-mader.de.ico",
     "slug": "jan-mader-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -194,6 +194,7 @@
     "timeMonth": 843,
     "timeYear": 923,
     "dailyMinutesDown": {
+      "2023-07-12": 0,
       "2023-01-25": 72,
       "2022-10-25": 102
     }
@@ -203,9 +204,9 @@
     "url": "https://jule-mader.de",
     "icon": "https://icons.duckduckgo.com/ip3/jule-mader.de.ico",
     "slug": "jule-mader-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -215,6 +216,7 @@
     "timeMonth": 613,
     "timeYear": 612,
     "dailyMinutesDown": {
+      "2023-07-12": 0,
       "2022-10-30": 216,
       "2022-10-25": 102
     }
@@ -225,18 +227,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "94.93%",
+    "uptime": "94.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "4.01%",
-    "uptimeMonth": "21.77%",
-    "uptimeYear": "93.12%",
+    "uptimeMonth": "20.95%",
+    "uptimeYear": "93.05%",
     "time": 523,
     "timeDay": 0,
     "timeWeek": 771,
     "timeMonth": 456,
     "timeYear": 480,
     "dailyMinutesDown": {
-      "2023-07-12": 80,
+      "2023-07-12": 438,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
