@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "98.12%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.80%",
+    "uptimeWeek": "96.35%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "97.86%",
-    "time": 2232,
-    "timeDay": 1713,
-    "timeWeek": 1980,
-    "timeMonth": 2127,
+    "time": 2231,
+    "timeDay": 1959,
+    "timeWeek": 1993,
+    "timeMonth": 2134,
     "timeYear": 2237,
     "dailyMinutesDown": {
       "2023-12-22": 233,
@@ -74,8 +74,7 @@
       "2023-01-04": 39,
       "2023-01-03": 20,
       "2022-12-30": 452,
-      "2022-12-29": 21,
-      "2022-12-27": 131
+      "2022-12-29": 21
     }
   },
   {
@@ -86,13 +85,13 @@
     "status": "up",
     "uptime": "98.07%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.81%",
+    "uptimeWeek": "96.36%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "97.89%",
     "time": 798,
-    "timeDay": 646,
-    "timeWeek": 722,
-    "timeMonth": 766,
+    "timeDay": 654,
+    "timeWeek": 727,
+    "timeMonth": 749,
     "timeYear": 805,
     "dailyMinutesDown": {
       "2023-12-22": 231,
@@ -149,8 +148,7 @@
       "2023-01-04": 39,
       "2023-01-03": 20,
       "2022-12-30": 452,
-      "2022-12-29": 21,
-      "2022-12-27": 131
+      "2022-12-29": 21
     }
   },
   {
@@ -164,10 +162,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 905,
-    "timeDay": 650,
-    "timeWeek": 717,
-    "timeMonth": 815,
+    "time": 904,
+    "timeDay": 823,
+    "timeWeek": 736,
+    "timeMonth": 818,
     "timeYear": 909,
     "dailyMinutesDown": {
       "2023-09-14": 25,
@@ -188,10 +186,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 602,
-    "timeDay": 485,
-    "timeWeek": 467,
-    "timeMonth": 546,
-    "timeYear": 591,
+    "timeDay": 514,
+    "timeWeek": 482,
+    "timeMonth": 549,
+    "timeYear": 592,
     "dailyMinutesDown": {
       "2023-09-14": 25,
       "2023-07-19": 21
@@ -203,15 +201,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "up",
-    "uptime": "74.73%",
-    "uptimeDay": "0.02%",
+    "uptime": "74.74%",
+    "uptimeDay": "34.99%",
     "uptimeWeek": "38.56%",
-    "uptimeMonth": "29.00%",
+    "uptimeMonth": "30.15%",
     "uptimeYear": "54.30%",
     "time": 479,
-    "timeDay": 390,
-    "timeWeek": 410,
-    "timeMonth": 465,
+    "timeDay": 398,
+    "timeWeek": 407,
+    "timeMonth": 461,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2023-12-26": 993,
