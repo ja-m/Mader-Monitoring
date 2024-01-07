@@ -11,10 +11,10 @@
     "uptimeMonth": "98.64%",
     "uptimeYear": "97.98%",
     "time": 2225,
-    "timeDay": 2357,
+    "timeDay": 2562,
     "timeWeek": 2062,
-    "timeMonth": 2038,
-    "timeYear": 2221,
+    "timeMonth": 2031,
+    "timeYear": 2222,
     "dailyMinutesDown": {
       "2023-12-27": 65,
       "2023-12-22": 233,
@@ -69,8 +69,7 @@
       "2023-01-29": 44,
       "2023-01-25": 114,
       "2023-01-17": 26,
-      "2023-01-08": 74,
-      "2023-01-07": 419
+      "2023-01-08": 74
     }
   },
   {
@@ -85,9 +84,9 @@
     "uptimeMonth": "98.65%",
     "uptimeYear": "98.01%",
     "time": 797,
-    "timeDay": 993,
+    "timeDay": 909,
     "timeWeek": 757,
-    "timeMonth": 734,
+    "timeMonth": 731,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2023-12-27": 64,
@@ -139,8 +138,7 @@
       "2023-01-29": 44,
       "2023-01-25": 62,
       "2023-01-17": 26,
-      "2023-01-08": 74,
-      "2023-01-07": 418
+      "2023-01-08": 74
     }
   },
   {
@@ -155,9 +153,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 901,
-    "timeDay": 898,
+    "timeDay": 1085,
     "timeWeek": 773,
-    "timeMonth": 771,
+    "timeMonth": 770,
     "timeYear": 904,
     "dailyMinutesDown": {
       "2023-09-14": 25,
@@ -178,9 +176,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 600,
-    "timeDay": 680,
+    "timeDay": 837,
     "timeWeek": 564,
-    "timeMonth": 529,
+    "timeMonth": 523,
     "timeYear": 589,
     "dailyMinutesDown": {
       "2023-09-14": 25,
@@ -193,18 +191,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "74.34%",
-    "uptimeDay": "99.98%",
+    "uptime": "74.33%",
+    "uptimeDay": "91.90%",
     "uptimeWeek": "51.39%",
     "uptimeMonth": "36.94%",
-    "uptimeYear": "52.81%",
+    "uptimeYear": "52.79%",
     "time": 480,
-    "timeDay": 413,
+    "timeDay": 436,
     "timeWeek": 424,
     "timeMonth": 439,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2024-01-06": 0,
+      "2024-01-07": 64,
+      "2024-01-06": 52,
       "2024-01-03": 528,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
