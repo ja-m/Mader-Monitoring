@@ -11,10 +11,10 @@
     "uptimeMonth": "99.42%",
     "uptimeYear": "98.46%",
     "time": 2118,
-    "timeDay": 1811,
-    "timeWeek": 1948,
-    "timeMonth": 2004,
-    "timeYear": 2103,
+    "timeDay": 2004,
+    "timeWeek": 1898,
+    "timeMonth": 2010,
+    "timeYear": 2102,
     "dailyMinutesDown": {
       "2024-09-28": 36,
       "2024-09-19": 26,
@@ -60,8 +60,7 @@
       "2023-10-30": 251,
       "2023-10-21": 20,
       "2023-10-09": 25,
-      "2023-10-03": 25,
-      "2023-09-30": 138
+      "2023-10-03": 25
     }
   },
   {
@@ -70,16 +69,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ja-ke-ju-calibre-web-direct",
     "status": "up",
-    "uptime": "98.73%",
+    "uptime": "98.74%",
     "uptimeDay": "97.51%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "98.48%",
     "time": 740,
-    "timeDay": 618,
-    "timeWeek": 658,
+    "timeDay": 660,
+    "timeWeek": 664,
     "timeMonth": 682,
-    "timeYear": 732,
+    "timeYear": 731,
     "dailyMinutesDown": {
       "2024-09-28": 36,
       "2024-09-19": 25,
@@ -122,8 +121,7 @@
       "2023-10-30": 251,
       "2023-10-21": 20,
       "2023-10-09": 25,
-      "2023-10-03": 25,
-      "2023-09-30": 138
+      "2023-10-03": 25
     }
   },
   {
@@ -138,10 +136,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 819,
-    "timeDay": 736,
-    "timeWeek": 742,
-    "timeMonth": 776,
-    "timeYear": 816,
+    "timeDay": 897,
+    "timeWeek": 767,
+    "timeMonth": 786,
+    "timeYear": 815,
     "dailyMinutesDown": {
       "2024-05-20": 21,
       "2024-05-01": 25,
@@ -160,9 +158,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 589,
-    "timeDay": 547,
-    "timeWeek": 554,
-    "timeMonth": 565,
+    "timeDay": 678,
+    "timeWeek": 576,
+    "timeMonth": 569,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2024-05-20": 21,
@@ -175,7 +173,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "68.77%",
+    "uptime": "68.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -186,7 +184,8 @@
     "timeMonth": 0,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2024-09-28": 643,
+      "2024-09-29": 79,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -414,8 +413,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1065,
       "2023-10-02": 455,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   }
 ]
