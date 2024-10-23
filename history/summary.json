@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.50%",
-    "time": 2125,
-    "timeDay": 1600,
-    "timeWeek": 2373,
-    "timeMonth": 2155,
-    "timeYear": 2106,
+    "time": 2124,
+    "timeDay": 1767,
+    "timeWeek": 2376,
+    "timeMonth": 2151,
+    "timeYear": 2105,
     "dailyMinutesDown": {
       "2024-09-28": 36,
       "2024-09-19": 26,
@@ -72,8 +72,8 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.52%",
     "time": 737,
-    "timeDay": 618,
-    "timeWeek": 700,
+    "timeDay": 634,
+    "timeWeek": 702,
     "timeMonth": 695,
     "timeYear": 728,
     "dailyMinutesDown": {
@@ -130,9 +130,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 821,
-    "timeDay": 717,
-    "timeWeek": 780,
-    "timeMonth": 848,
+    "timeDay": 677,
+    "timeWeek": 781,
+    "timeMonth": 847,
     "timeYear": 819,
     "dailyMinutesDown": {
       "2024-05-20": 21,
@@ -152,10 +152,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 589,
-    "timeDay": 414,
-    "timeWeek": 511,
-    "timeMonth": 621,
-    "timeYear": 589,
+    "timeDay": 527,
+    "timeWeek": 525,
+    "timeMonth": 620,
+    "timeYear": 588,
     "dailyMinutesDown": {
       "2024-05-20": 21,
       "2024-05-01": 25
@@ -167,18 +167,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "67.09%",
+    "uptime": "67.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "44.35%",
+    "uptimeYear": "44.23%",
     "time": 486,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2024-10-22": 75,
+      "2024-10-23": 74,
+      "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -406,8 +407,7 @@
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
-      "2023-10-25": 1440,
-      "2023-10-24": 1440
+      "2023-10-25": 1440
     }
   }
 ]
