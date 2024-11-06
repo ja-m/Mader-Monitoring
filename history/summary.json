@@ -10,11 +10,11 @@
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "98.90%",
-    "time": 2121,
-    "timeDay": 2133,
-    "timeWeek": 2137,
-    "timeMonth": 2187,
-    "timeYear": 2105,
+    "time": 2120,
+    "timeDay": 2588,
+    "timeWeek": 2104,
+    "timeMonth": 2174,
+    "timeYear": 2104,
     "dailyMinutesDown": {
       "2024-11-05": 27,
       "2024-11-02": 27,
@@ -74,10 +74,10 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "98.92%",
     "time": 737,
-    "timeDay": 761,
+    "timeDay": 885,
     "timeWeek": 749,
-    "timeMonth": 723,
-    "timeYear": 728,
+    "timeMonth": 724,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2024-11-05": 27,
       "2024-11-02": 27,
@@ -133,8 +133,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 822,
-    "timeDay": 594,
-    "timeWeek": 884,
+    "timeDay": 1278,
+    "timeWeek": 892,
     "timeMonth": 876,
     "timeYear": 823,
     "dailyMinutesDown": {
@@ -154,10 +154,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 592,
-    "timeDay": 504,
-    "timeWeek": 665,
-    "timeMonth": 630,
+    "time": 591,
+    "timeDay": 747,
+    "timeWeek": 657,
+    "timeMonth": 624,
     "timeYear": 591,
     "dailyMinutesDown": {
       "2024-05-20": 21,
@@ -170,7 +170,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "66.13%",
+    "uptime": "66.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -181,7 +181,8 @@
     "timeMonth": 0,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2024-11-05": 210,
+      "2024-11-06": 73,
+      "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
@@ -409,8 +410,7 @@
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
-      "2023-11-08": 1440,
-      "2023-11-07": 1026
+      "2023-11-08": 1440
     }
   }
 ]
