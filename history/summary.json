@@ -11,10 +11,10 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "98.87%",
     "time": 2112,
-    "timeDay": 2142,
-    "timeWeek": 1937,
-    "timeMonth": 2169,
-    "timeYear": 2095,
+    "timeDay": 2193,
+    "timeWeek": 1909,
+    "timeMonth": 2144,
+    "timeYear": 2094,
     "dailyMinutesDown": {
       "2024-12-06": 37,
       "2024-11-28": 37,
@@ -77,10 +77,10 @@
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "98.90%",
-    "time": 736,
-    "timeDay": 764,
-    "timeWeek": 742,
-    "timeMonth": 765,
+    "time": 735,
+    "timeDay": 812,
+    "timeWeek": 744,
+    "timeMonth": 761,
     "timeYear": 727,
     "dailyMinutesDown": {
       "2024-12-06": 37,
@@ -141,10 +141,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 825,
-    "timeDay": 749,
-    "timeWeek": 724,
-    "timeMonth": 849,
-    "timeYear": 813,
+    "timeDay": 699,
+    "timeWeek": 706,
+    "timeMonth": 842,
+    "timeYear": 812,
     "dailyMinutesDown": {
       "2024-05-20": 21,
       "2024-05-01": 25,
@@ -163,9 +163,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 592,
-    "timeDay": 434,
-    "timeWeek": 476,
-    "timeMonth": 611,
+    "timeDay": 483,
+    "timeWeek": 464,
+    "timeMonth": 604,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2024-05-20": 21,
@@ -178,7 +178,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "64.10%",
+    "uptime": "64.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -189,7 +189,8 @@
     "timeMonth": 0,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2024-12-06": 223,
+      "2024-12-07": 79,
+      "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
@@ -417,8 +418,7 @@
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
-      "2023-12-09": 1440,
-      "2023-12-08": 1440
+      "2023-12-09": 1440
     }
   }
 ]
