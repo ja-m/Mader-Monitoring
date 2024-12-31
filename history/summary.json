@@ -11,9 +11,9 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "98.97%",
     "time": 2111,
-    "timeDay": 2579,
-    "timeWeek": 2239,
-    "timeMonth": 2050,
+    "timeDay": 2053,
+    "timeWeek": 2116,
+    "timeMonth": 2041,
     "timeYear": 2099,
     "dailyMinutesDown": {
       "2024-12-30": 30,
@@ -77,9 +77,9 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "98.99%",
     "time": 732,
-    "timeDay": 884,
-    "timeWeek": 773,
-    "timeMonth": 727,
+    "timeDay": 741,
+    "timeWeek": 747,
+    "timeMonth": 725,
     "timeYear": 727,
     "dailyMinutesDown": {
       "2024-12-30": 29,
@@ -138,9 +138,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 822,
-    "timeDay": 1134,
-    "timeWeek": 905,
+    "time": 821,
+    "timeDay": 773,
+    "timeWeek": 862,
     "timeMonth": 790,
     "timeYear": 815,
     "dailyMinutesDown": {
@@ -161,9 +161,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 591,
-    "timeDay": 957,
-    "timeWeek": 650,
-    "timeMonth": 570,
+    "timeDay": 539,
+    "timeWeek": 621,
+    "timeMonth": 569,
     "timeYear": 599,
     "dailyMinutesDown": {
       "2024-05-20": 21,
@@ -176,10 +176,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "62.61%",
+    "uptime": "62.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "40.42%",
     "time": 489,
     "timeDay": 0,
@@ -187,7 +187,8 @@
     "timeMonth": 0,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2024-12-30": 213,
+      "2024-12-31": 74,
+      "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -420,8 +421,7 @@
       "2024-01-07": 1440,
       "2024-01-06": 52,
       "2024-01-03": 528,
-      "2024-01-02": 1440,
-      "2024-01-01": 1440
+      "2024-01-02": 1440
     }
   }
 ]
