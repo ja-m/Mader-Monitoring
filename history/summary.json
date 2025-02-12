@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
     "time": 2114,
-    "timeDay": 2680,
-    "timeWeek": 2136,
-    "timeMonth": 2189,
-    "timeYear": 2108,
+    "timeDay": 1736,
+    "timeWeek": 2115,
+    "timeMonth": 2171,
+    "timeYear": 2107,
     "dailyMinutesDown": {
       "2025-01-09": 39,
       "2025-01-06": 36,
@@ -74,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 732,
-    "timeDay": 907,
+    "timeDay": 635,
     "timeWeek": 735,
-    "timeMonth": 750,
+    "timeMonth": 742,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2025-01-09": 39,
@@ -132,10 +132,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 828,
-    "timeDay": 1112,
-    "timeWeek": 863,
-    "timeMonth": 904,
+    "time": 829,
+    "timeDay": 892,
+    "timeWeek": 887,
+    "timeMonth": 897,
     "timeYear": 828,
     "dailyMinutesDown": {
       "2024-05-20": 21,
@@ -154,9 +154,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 593,
-    "timeDay": 649,
-    "timeWeek": 635,
-    "timeMonth": 624,
+    "timeDay": 550,
+    "timeWeek": 638,
+    "timeMonth": 619,
     "timeYear": 605,
     "dailyMinutesDown": {
       "2024-05-20": 21,
@@ -169,7 +169,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "60.12%",
+    "uptime": "60.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -180,7 +180,8 @@
     "timeMonth": 0,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2025-02-11": 73,
+      "2025-02-12": 74,
+      "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -435,8 +436,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 448,
-      "2024-02-13": 450
+      "2024-02-20": 448
     }
   }
 ]
