@@ -11,10 +11,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.60%",
     "time": 2117,
-    "timeDay": 2561,
-    "timeWeek": 2556,
-    "timeMonth": 2247,
-    "timeYear": 2115,
+    "timeDay": 2330,
+    "timeWeek": 2564,
+    "timeMonth": 2269,
+    "timeYear": 2117,
     "dailyMinutesDown": {
       "2025-02-17": 28,
       "2025-01-09": 39,
@@ -74,10 +74,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.62%",
-    "time": 733,
-    "timeDay": 900,
-    "timeWeek": 852,
-    "timeMonth": 759,
+    "time": 734,
+    "timeDay": 808,
+    "timeWeek": 861,
+    "timeMonth": 765,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2025-02-17": 28,
@@ -134,11 +134,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 831,
-    "timeDay": 1135,
-    "timeWeek": 1000,
-    "timeMonth": 949,
-    "timeYear": 833,
+    "time": 832,
+    "timeDay": 1252,
+    "timeWeek": 1020,
+    "timeMonth": 962,
+    "timeYear": 835,
     "dailyMinutesDown": {
       "2024-05-20": 21,
       "2024-05-01": 25
@@ -156,10 +156,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 595,
-    "timeDay": 762,
-    "timeWeek": 694,
-    "timeMonth": 663,
-    "timeYear": 609,
+    "timeDay": 794,
+    "timeWeek": 679,
+    "timeMonth": 674,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2024-05-20": 21,
       "2024-05-01": 25
@@ -171,7 +171,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "59.35%",
+    "uptime": "59.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -182,7 +182,8 @@
     "timeMonth": 0,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2025-02-25": 76,
+      "2025-02-26": 76,
+      "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -443,8 +444,7 @@
       "2024-03-10": 45,
       "2024-03-04": 867,
       "2024-03-03": 1218,
-      "2024-02-28": 524,
-      "2024-02-27": 1440
+      "2024-02-28": 524
     }
   }
 ]
