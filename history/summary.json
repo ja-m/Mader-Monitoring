@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.62%",
     "time": 2121,
-    "timeDay": 2801,
-    "timeWeek": 2981,
-    "timeMonth": 2351,
+    "timeDay": 2063,
+    "timeWeek": 2883,
+    "timeMonth": 2352,
     "timeYear": 2132,
     "dailyMinutesDown": {
       "2025-02-17": 28,
@@ -58,8 +58,7 @@
       "2024-04-16": 22,
       "2024-04-10": 107,
       "2024-04-08": 27,
-      "2024-04-02": 28,
-      "2024-03-09": 57
+      "2024-04-02": 28
     }
   },
   {
@@ -74,9 +73,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.65%",
     "time": 731,
-    "timeDay": 895,
-    "timeWeek": 830,
-    "timeMonth": 766,
+    "timeDay": 645,
+    "timeWeek": 794,
+    "timeMonth": 764,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2025-02-17": 28,
@@ -117,8 +116,7 @@
       "2024-04-18": 28,
       "2024-04-10": 107,
       "2024-04-08": 27,
-      "2024-04-02": 27,
-      "2024-03-09": 56
+      "2024-04-02": 27
     }
   },
   {
@@ -132,10 +130,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 842,
-    "timeDay": 1081,
-    "timeWeek": 1573,
-    "timeMonth": 1064,
+    "time": 843,
+    "timeDay": 743,
+    "timeWeek": 1519,
+    "timeMonth": 1062,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2024-05-20": 21,
@@ -154,9 +152,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 597,
-    "timeDay": 828,
-    "timeWeek": 687,
-    "timeMonth": 647,
+    "timeDay": 533,
+    "timeWeek": 649,
+    "timeMonth": 636,
     "timeYear": 612,
     "dailyMinutesDown": {
       "2024-05-20": 21,
@@ -169,18 +167,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "58.75%",
+    "uptime": "58.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "29.13%",
+    "uptimeYear": "28.86%",
     "time": 476,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2025-03-08": 62,
+      "2025-03-09": 68,
+      "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
