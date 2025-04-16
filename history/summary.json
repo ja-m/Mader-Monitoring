@@ -11,10 +11,10 @@
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.62%",
     "time": 2121,
-    "timeDay": 2134,
-    "timeWeek": 1982,
-    "timeMonth": 2147,
-    "timeYear": 2135,
+    "timeDay": 1758,
+    "timeWeek": 1905,
+    "timeMonth": 2139,
+    "timeYear": 2134,
     "dailyMinutesDown": {
       "2025-04-15": 26,
       "2025-03-29": 180,
@@ -58,8 +58,7 @@
       "2024-04-27": 27,
       "2024-04-25": 28,
       "2024-04-22": 28,
-      "2024-04-18": 28,
-      "2024-04-16": 22
+      "2024-04-18": 28
     }
   },
   {
@@ -74,9 +73,9 @@
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.65%",
     "time": 729,
-    "timeDay": 756,
-    "timeWeek": 645,
-    "timeMonth": 723,
+    "timeDay": 550,
+    "timeWeek": 628,
+    "timeMonth": 717,
     "timeYear": 730,
     "dailyMinutesDown": {
       "2025-03-29": 180,
@@ -130,10 +129,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 836,
-    "timeDay": 978,
-    "timeWeek": 831,
-    "timeMonth": 877,
+    "time": 835,
+    "timeDay": 611,
+    "timeWeek": 797,
+    "timeMonth": 873,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2024-05-20": 21,
@@ -152,9 +151,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 599,
-    "timeDay": 686,
-    "timeWeek": 579,
-    "timeMonth": 624,
+    "timeDay": 414,
+    "timeWeek": 555,
+    "timeMonth": 620,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2024-05-20": 21,
@@ -167,7 +166,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "56.78%",
+    "uptime": "56.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -178,7 +177,8 @@
     "timeMonth": 0,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2025-04-15": 439,
+      "2025-04-16": 82,
+      "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -458,8 +458,7 @@
       "2024-04-24": 873,
       "2024-04-23": 521,
       "2024-04-18": 748,
-      "2024-04-17": 1440,
-      "2024-04-16": 1440
+      "2024-04-17": 1440
     }
   }
 ]
