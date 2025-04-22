@@ -11,10 +11,10 @@
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.63%",
     "time": 2126,
-    "timeDay": 2601,
-    "timeWeek": 2142,
-    "timeMonth": 2138,
-    "timeYear": 2129,
+    "timeDay": 1965,
+    "timeWeek": 2095,
+    "timeMonth": 2136,
+    "timeYear": 2128,
     "dailyMinutesDown": {
       "2025-04-15": 26,
       "2025-03-29": 180,
@@ -56,8 +56,7 @@
       "2024-05-09": 18,
       "2024-05-04": 26,
       "2024-04-27": 27,
-      "2024-04-25": 28,
-      "2024-04-22": 28
+      "2024-04-25": 28
     }
   },
   {
@@ -71,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.65%",
-    "time": 729,
-    "timeDay": 849,
-    "timeWeek": 710,
-    "timeMonth": 712,
-    "timeYear": 730,
+    "time": 728,
+    "timeDay": 569,
+    "timeWeek": 686,
+    "timeMonth": 708,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2025-03-29": 180,
       "2025-03-11": 33,
@@ -112,8 +111,7 @@
       "2024-05-17": 110,
       "2024-05-04": 25,
       "2024-04-27": 27,
-      "2024-04-25": 28,
-      "2024-04-22": 28
+      "2024-04-25": 28
     }
   },
   {
@@ -128,9 +126,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 836,
-    "timeDay": 872,
-    "timeWeek": 817,
-    "timeMonth": 860,
+    "timeDay": 834,
+    "timeWeek": 796,
+    "timeMonth": 856,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2024-05-20": 21,
@@ -149,9 +147,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 599,
-    "timeDay": 539,
-    "timeWeek": 496,
-    "timeMonth": 587,
+    "timeDay": 632,
+    "timeWeek": 488,
+    "timeMonth": 589,
     "timeYear": 612,
     "dailyMinutesDown": {
       "2024-05-20": 21,
@@ -164,18 +162,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "56.50%",
+    "uptime": "56.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "23.13%",
-    "time": 481,
+    "uptimeYear": "22.86%",
+    "time": 482,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 452,
+    "timeYear": 449,
     "dailyMinutesDown": {
-      "2025-04-21": 85,
+      "2025-04-22": 82,
+      "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
