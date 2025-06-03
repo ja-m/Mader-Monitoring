@@ -11,10 +11,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.69%",
     "time": 2123,
-    "timeDay": 1673,
-    "timeWeek": 2095,
-    "timeMonth": 2128,
-    "timeYear": 2132,
+    "timeDay": 2250,
+    "timeWeek": 2150,
+    "timeMonth": 2140,
+    "timeYear": 2133,
     "dailyMinutesDown": {
       "2025-05-21": 25,
       "2025-04-15": 26,
@@ -64,10 +64,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.70%",
-    "time": 726,
-    "timeDay": 547,
-    "timeWeek": 825,
-    "timeMonth": 696,
+    "time": 725,
+    "timeDay": 689,
+    "timeWeek": 844,
+    "timeMonth": 700,
     "timeYear": 726,
     "dailyMinutesDown": {
       "2025-05-21": 25,
@@ -115,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 842,
-    "timeDay": 667,
-    "timeWeek": 783,
-    "timeMonth": 837,
-    "timeYear": 859,
+    "time": 841,
+    "timeDay": 763,
+    "timeWeek": 777,
+    "timeMonth": 835,
+    "timeYear": 860,
     "dailyMinutesDown": {}
   },
   {
@@ -134,9 +134,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 606,
-    "timeDay": 776,
-    "timeWeek": 693,
-    "timeMonth": 642,
+    "timeDay": 680,
+    "timeWeek": 696,
+    "timeMonth": 634,
     "timeYear": 620,
     "dailyMinutesDown": {}
   },
@@ -146,7 +146,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "54.50%",
+    "uptime": "54.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -157,7 +157,8 @@
     "timeMonth": 0,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2025-06-02": 99,
+      "2025-06-03": 87,
+      "2025-06-02": 1440,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
@@ -475,8 +476,7 @@
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 941,
-      "2024-07-02": 20,
-      "2024-06-03": 452
+      "2024-07-02": 20
     }
   }
 ]
