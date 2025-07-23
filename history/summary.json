@@ -10,11 +10,11 @@
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.61%",
-    "time": 2143,
-    "timeDay": 1987,
-    "timeWeek": 1962,
-    "timeMonth": 2188,
-    "timeYear": 2154,
+    "time": 2144,
+    "timeDay": 2578,
+    "timeWeek": 2056,
+    "timeMonth": 2203,
+    "timeYear": 2156,
     "dailyMinutesDown": {
       "2025-07-19": 50,
       "2025-07-16": 21,
@@ -66,11 +66,11 @@
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.63%",
-    "time": 731,
-    "timeDay": 538,
-    "timeWeek": 593,
-    "timeMonth": 724,
-    "timeYear": 734,
+    "time": 732,
+    "timeDay": 912,
+    "timeWeek": 632,
+    "timeMonth": 735,
+    "timeYear": 735,
     "dailyMinutesDown": {
       "2025-07-19": 50,
       "2025-06-24": 31,
@@ -117,11 +117,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 851,
-    "timeDay": 909,
-    "timeWeek": 833,
-    "timeMonth": 880,
-    "timeYear": 867,
+    "time": 852,
+    "timeDay": 1098,
+    "timeWeek": 882,
+    "timeMonth": 886,
+    "timeYear": 868,
     "dailyMinutesDown": {}
   },
   {
@@ -135,11 +135,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 493,
-    "timeWeek": 594,
-    "timeMonth": 634,
-    "timeYear": 628,
+    "time": 615,
+    "timeDay": 808,
+    "timeWeek": 628,
+    "timeMonth": 643,
+    "timeYear": 629,
     "dailyMinutesDown": {}
   },
   {
@@ -148,7 +148,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "52.30%",
+    "uptime": "52.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -159,7 +159,8 @@
     "timeMonth": 0,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2025-07-22": 102,
+      "2025-07-23": 103,
+      "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
@@ -522,8 +523,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   }
 ]
