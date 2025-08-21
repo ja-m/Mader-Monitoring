@@ -11,10 +11,10 @@
     "uptimeMonth": "98.17%",
     "uptimeYear": "99.53%",
     "time": 2133,
-    "timeDay": 1777,
-    "timeWeek": 2110,
-    "timeMonth": 2044,
-    "timeYear": 2149,
+    "timeDay": 1633,
+    "timeWeek": 2051,
+    "timeMonth": 2031,
+    "timeYear": 2147,
     "dailyMinutesDown": {
       "2025-08-16": 460,
       "2025-08-15": 302,
@@ -66,9 +66,9 @@
     "uptimeWeek": "92.44%",
     "uptimeMonth": "98.17%",
     "uptimeYear": "99.55%",
-    "time": 727,
-    "timeDay": 546,
-    "timeWeek": 656,
+    "time": 726,
+    "timeDay": 552,
+    "timeWeek": 629,
     "timeMonth": 646,
     "timeYear": 724,
     "dailyMinutesDown": {
@@ -117,11 +117,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
-    "time": 854,
-    "timeDay": 739,
-    "timeWeek": 926,
-    "timeMonth": 879,
-    "timeYear": 869,
+    "time": 853,
+    "timeDay": 566,
+    "timeWeek": 866,
+    "timeMonth": 870,
+    "timeYear": 868,
     "dailyMinutesDown": {
       "2025-08-12": 21,
       "2025-08-08": 33
@@ -139,9 +139,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 615,
-    "timeDay": 542,
-    "timeWeek": 648,
-    "timeMonth": 601,
+    "timeDay": 540,
+    "timeWeek": 624,
+    "timeMonth": 599,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2025-08-12": 21,
@@ -154,7 +154,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "51.10%",
+    "uptime": "51.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -165,7 +165,8 @@
     "timeMonth": 0,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2025-08-20": 83,
+      "2025-08-21": 82,
+      "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
@@ -528,8 +529,7 @@
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
-      "2024-08-22": 1196,
-      "2024-08-21": 1440
+      "2024-08-22": 1196
     }
   }
 ]
