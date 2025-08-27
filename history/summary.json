@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.17%",
     "uptimeYear": "99.53%",
-    "time": 2131,
-    "timeDay": 1963,
-    "timeWeek": 1889,
-    "timeMonth": 2004,
-    "timeYear": 2144,
+    "time": 2132,
+    "timeDay": 2625,
+    "timeWeek": 2010,
+    "timeMonth": 2005,
+    "timeYear": 2145,
     "dailyMinutesDown": {
       "2025-08-16": 460,
       "2025-08-15": 302,
@@ -51,8 +51,7 @@
       "2024-09-16": 76,
       "2024-09-14": 25,
       "2024-09-04": 45,
-      "2024-09-02": 48,
-      "2024-08-27": 59
+      "2024-09-02": 48
     }
   },
   {
@@ -67,8 +66,8 @@
     "uptimeMonth": "98.17%",
     "uptimeYear": "99.55%",
     "time": 725,
-    "timeDay": 561,
-    "timeWeek": 587,
+    "timeDay": 726,
+    "timeWeek": 612,
     "timeMonth": 630,
     "timeYear": 722,
     "dailyMinutesDown": {
@@ -102,8 +101,7 @@
       "2024-09-16": 76,
       "2024-09-14": 25,
       "2024-09-04": 45,
-      "2024-09-02": 48,
-      "2024-08-27": 58
+      "2024-09-02": 48
     }
   },
   {
@@ -117,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
-    "time": 852,
-    "timeDay": 753,
-    "timeWeek": 745,
-    "timeMonth": 848,
-    "timeYear": 865,
+    "time": 853,
+    "timeDay": 1268,
+    "timeWeek": 820,
+    "timeMonth": 852,
+    "timeYear": 867,
     "dailyMinutesDown": {
       "2025-08-12": 21,
       "2025-08-08": 33
@@ -138,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
-    "time": 615,
-    "timeDay": 557,
-    "timeWeek": 596,
-    "timeMonth": 595,
-    "timeYear": 612,
+    "time": 616,
+    "timeDay": 839,
+    "timeWeek": 639,
+    "timeMonth": 598,
+    "timeYear": 613,
     "dailyMinutesDown": {
       "2025-08-12": 21,
       "2025-08-08": 33
@@ -154,18 +152,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "50.86%",
+    "uptime": "50.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 452,
+    "time": 449,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-26": 84,
+      "2025-08-27": 81,
+      "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -528,8 +527,7 @@
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
-      "2024-08-28": 1440,
-      "2024-08-27": 1440
+      "2024-08-28": 1440
     }
   }
 ]
