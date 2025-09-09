@@ -105,9 +105,9 @@
     "url": "http://jan-mader.de",
     "icon": "https://icons.duckduckgo.com/ip3/jan-mader.de.ico",
     "slug": "jan-mader-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -117,6 +117,7 @@
     "timeMonth": 848,
     "timeYear": 870,
     "dailyMinutesDown": {
+      "2025-09-09": 0,
       "2025-08-12": 21,
       "2025-08-08": 33
     }
@@ -148,7 +149,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "50.31%",
+    "uptime": "50.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -159,7 +160,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-09": 80,
+      "2025-09-09": 821,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
