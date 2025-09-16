@@ -8,13 +8,13 @@
     "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.26%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.56%",
     "time": 2134,
-    "timeDay": 2798,
-    "timeWeek": 2368,
-    "timeMonth": 2144,
-    "timeYear": 2158,
+    "timeDay": 1718,
+    "timeWeek": 2220,
+    "timeMonth": 2161,
+    "timeYear": 2156,
     "dailyMinutesDown": {
       "2025-08-16": 460,
       "2025-08-15": 302,
@@ -47,8 +47,7 @@
       "2024-10-25": 17,
       "2024-10-24": 16,
       "2024-09-28": 36,
-      "2024-09-19": 26,
-      "2024-09-16": 76
+      "2024-09-19": 26
     }
   },
   {
@@ -60,13 +59,13 @@
     "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.26%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.59%",
     "time": 723,
-    "timeDay": 776,
-    "timeWeek": 706,
-    "timeMonth": 654,
-    "timeYear": 722,
+    "timeDay": 546,
+    "timeWeek": 696,
+    "timeMonth": 662,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2025-08-16": 460,
       "2025-08-15": 302,
@@ -94,8 +93,7 @@
       "2024-10-27": 31,
       "2024-10-24": 16,
       "2024-09-28": 36,
-      "2024-09-19": 25,
-      "2024-09-16": 76
+      "2024-09-19": 25
     }
   },
   {
@@ -110,10 +108,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 858,
-    "timeDay": 1038,
-    "timeWeek": 934,
-    "timeMonth": 871,
-    "timeYear": 873,
+    "timeDay": 745,
+    "timeWeek": 928,
+    "timeMonth": 868,
+    "timeYear": 872,
     "dailyMinutesDown": {
       "2025-08-12": 21,
       "2025-08-08": 33
@@ -131,9 +129,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 618,
-    "timeDay": 831,
-    "timeWeek": 681,
-    "timeMonth": 642,
+    "timeDay": 466,
+    "timeWeek": 679,
+    "timeMonth": 638,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2025-08-12": 21,
@@ -146,18 +144,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "50.08%",
+    "uptime": "50.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 449,
+    "time": 450,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-15": 84,
+      "2025-09-16": 78,
+      "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
@@ -520,8 +519,7 @@
       "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
-      "2024-09-17": 1440,
-      "2024-09-16": 1440
+      "2024-09-17": 1440
     }
   }
 ]
