@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.56%",
-    "time": 2136,
-    "timeDay": 2048,
-    "timeWeek": 2143,
-    "timeMonth": 2168,
-    "timeYear": 2160,
+    "time": 2137,
+    "timeDay": 2355,
+    "timeWeek": 2071,
+    "timeMonth": 2180,
+    "timeYear": 2161,
     "dailyMinutesDown": {
       "2025-09-20": 96,
       "2025-09-19": 5,
@@ -47,8 +47,7 @@
       "2024-10-31": 30,
       "2024-10-27": 32,
       "2024-10-25": 17,
-      "2024-10-24": 16,
-      "2024-09-28": 36
+      "2024-10-24": 16
     }
   },
   {
@@ -63,9 +62,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
     "time": 720,
-    "timeDay": 700,
-    "timeWeek": 690,
-    "timeMonth": 670,
+    "timeDay": 701,
+    "timeWeek": 683,
+    "timeMonth": 674,
     "timeYear": 721,
     "dailyMinutesDown": {
       "2025-08-16": 460,
@@ -92,8 +91,7 @@
       "2024-11-02": 27,
       "2024-10-31": 30,
       "2024-10-27": 31,
-      "2024-10-24": 16,
-      "2024-09-28": 36
+      "2024-10-24": 16
     }
   },
   {
@@ -108,9 +106,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 861,
-    "timeDay": 882,
-    "timeWeek": 938,
-    "timeMonth": 884,
+    "timeDay": 861,
+    "timeWeek": 911,
+    "timeMonth": 890,
     "timeYear": 876,
     "dailyMinutesDown": {
       "2025-08-12": 21,
@@ -129,10 +127,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 621,
-    "timeDay": 620,
-    "timeWeek": 726,
-    "timeMonth": 647,
-    "timeYear": 620,
+    "timeDay": 807,
+    "timeWeek": 675,
+    "timeMonth": 655,
+    "timeYear": 621,
     "dailyMinutesDown": {
       "2025-08-12": 21,
       "2025-08-08": 33
@@ -144,18 +142,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "49.62%",
+    "uptime": "49.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 462,
+    "time": 460,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 76,
+      "2025-09-28": 87,
+      "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -518,8 +517,7 @@
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
-      "2024-09-29": 1440,
-      "2024-09-28": 1440
+      "2024-09-29": 1440
     }
   }
 ]
