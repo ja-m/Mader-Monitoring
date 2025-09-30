@@ -11,10 +11,10 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.57%",
     "time": 2138,
-    "timeDay": 2375,
-    "timeWeek": 2124,
-    "timeMonth": 2196,
-    "timeYear": 2163,
+    "timeDay": 1767,
+    "timeWeek": 2068,
+    "timeMonth": 2179,
+    "timeYear": 2162,
     "dailyMinutesDown": {
       "2025-09-20": 96,
       "2025-09-19": 5,
@@ -62,9 +62,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
     "time": 720,
-    "timeDay": 788,
-    "timeWeek": 707,
-    "timeMonth": 678,
+    "timeDay": 552,
+    "timeWeek": 680,
+    "timeMonth": 668,
     "timeYear": 722,
     "dailyMinutesDown": {
       "2025-08-16": 460,
@@ -106,9 +106,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 862,
-    "timeDay": 1301,
-    "timeWeek": 986,
-    "timeMonth": 908,
+    "timeDay": 730,
+    "timeWeek": 928,
+    "timeMonth": 896,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2025-08-12": 21,
@@ -127,10 +127,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 622,
-    "timeDay": 873,
-    "timeWeek": 700,
-    "timeMonth": 664,
-    "timeYear": 622,
+    "timeDay": 425,
+    "timeWeek": 658,
+    "timeMonth": 649,
+    "timeYear": 621,
     "dailyMinutesDown": {
       "2025-08-12": 21,
       "2025-08-08": 33
@@ -142,18 +142,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "49.54%",
+    "uptime": "49.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 462,
+    "time": 464,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-29": 81,
+      "2025-09-30": 80,
+      "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
@@ -516,8 +517,7 @@
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
-      "2024-10-01": 1440,
-      "2024-09-30": 1440
+      "2024-10-01": 1440
     }
   }
 ]
