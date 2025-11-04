@@ -1,7 +1,7 @@
 url: $SECRET_SITE_1
-status: down
-code: 530
-responseTime: 606
-lastUpdated: 2025-11-04T18:54:19.015Z
+status: up
+code: 200
+responseTime: 1532
+lastUpdated: 2025-11-04T19:18:06.237Z
 startTime: 2022-02-27T18:24:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
