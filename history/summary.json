@@ -11,9 +11,9 @@
     "uptimeMonth": "98.01%",
     "uptimeYear": "99.44%",
     "time": 2077,
-    "timeDay": 1359,
-    "timeWeek": 1384,
-    "timeMonth": 1421,
+    "timeDay": 1784,
+    "timeWeek": 1474,
+    "timeMonth": 1431,
     "timeYear": 2060,
     "dailyMinutesDown": {
       "2025-11-21": 90,
@@ -55,18 +55,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ja-ke-ju-calibre-web-direct",
     "status": "down",
-    "uptime": "97.33%",
+    "uptime": "97.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "6.83%",
-    "uptimeYear": "91.88%",
+    "uptimeMonth": "3.55%",
+    "uptimeYear": "91.60%",
     "time": 721,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1261,
+    "timeMonth": 0,
     "timeYear": 716,
     "dailyMinutesDown": {
-      "2025-12-03": 87,
+      "2025-12-04": 88,
+      "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -129,10 +130,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 869,
-    "timeDay": 881,
-    "timeWeek": 975,
-    "timeMonth": 890,
-    "timeYear": 873,
+    "timeDay": 1232,
+    "timeWeek": 1047,
+    "timeMonth": 905,
+    "timeYear": 875,
     "dailyMinutesDown": {
       "2025-08-12": 21,
       "2025-08-08": 33
@@ -149,11 +150,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 620,
-    "timeDay": 772,
-    "timeWeek": 705,
-    "timeMonth": 646,
-    "timeYear": 620,
+    "time": 621,
+    "timeDay": 801,
+    "timeWeek": 736,
+    "timeMonth": 656,
+    "timeYear": 621,
     "dailyMinutesDown": {
       "2025-08-12": 21,
       "2025-08-08": 33
@@ -165,7 +166,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "47.19%",
+    "uptime": "47.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -176,7 +177,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-03": 87,
+      "2025-12-04": 88,
+      "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -539,8 +541,7 @@
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
-      "2024-12-05": 1440,
-      "2024-12-04": 1440
+      "2024-12-05": 1440
     }
   }
 ]
