@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "99.44%",
-    "time": 2078,
-    "timeDay": 2021,
-    "timeWeek": 1504,
-    "timeMonth": 1469,
+    "time": 2076,
+    "timeDay": 1635,
+    "timeWeek": 1531,
+    "timeMonth": 1476,
     "timeYear": 2061,
     "dailyMinutesDown": {
       "2025-11-21": 90,
@@ -45,8 +45,7 @@
       "2025-01-02": 27,
       "2024-12-30": 30,
       "2024-12-17": 38,
-      "2024-12-07": 37,
-      "2024-12-06": 37
+      "2024-12-07": 37
     }
   },
   {
@@ -55,18 +54,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ja-ke-ju-calibre-web-direct",
     "status": "down",
-    "uptime": "97.19%",
+    "uptime": "97.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "91.33%",
+    "uptimeYear": "91.06%",
     "time": 721,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2025-12-05": 88,
+      "2025-12-06": 83,
+      "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -115,8 +115,7 @@
       "2025-01-02": 26,
       "2024-12-30": 29,
       "2024-12-17": 38,
-      "2024-12-07": 37,
-      "2024-12-06": 37
+      "2024-12-07": 37
     }
   },
   {
@@ -130,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 870,
-    "timeDay": 1298,
-    "timeWeek": 1074,
-    "timeMonth": 922,
-    "timeYear": 876,
+    "time": 869,
+    "timeDay": 1128,
+    "timeWeek": 1039,
+    "timeMonth": 933,
+    "timeYear": 877,
     "dailyMinutesDown": {
       "2025-08-12": 21,
       "2025-08-08": 33
@@ -152,10 +151,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 621,
-    "timeDay": 875,
-    "timeWeek": 748,
-    "timeMonth": 666,
-    "timeYear": 622,
+    "timeDay": 806,
+    "timeWeek": 740,
+    "timeMonth": 674,
+    "timeYear": 623,
     "dailyMinutesDown": {
       "2025-08-12": 21,
       "2025-08-08": 33
@@ -167,7 +166,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev79194.service-now.com.ico",
     "slug": "service-now-pdi",
     "status": "down",
-    "uptime": "47.13%",
+    "uptime": "47.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -178,7 +177,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-05": 88,
+      "2025-12-06": 83,
+      "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -541,8 +541,7 @@
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
-      "2024-12-07": 1440,
-      "2024-12-06": 1440
+      "2024-12-07": 1440
     }
   }
 ]
